@@ -1,0 +1,39 @@
+_repo: Henry-the-SixthA-Reprint-of-John-Blacman-s-Memoir-with-Translation-and-Notes_29689
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: James, M. R. (Montague Rhodes)
+    aliases:
+    - James, Montague Rhodes
+    - James, M.R.
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '2768'
+    url: http://www.gutenberg.org/2009/agents/2768
+    wikipedia: http://en.wikipedia.org/wiki/M._R._James
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blakman, John
+    alias: Blacman, John
+    gutenberg_agent_id: '34088'
+    url: http://www.gutenberg.org/2009/agents/34088
+description: ''
+gutenberg_issued: '2009-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461'
+- !lcsh 'Henry VI, King of England, 1421-1471'
+- !lcc 'DA'
+title: 'Henry the Sixth
+
+  A Reprint of John Blacman''s Memoir with Translation and Notes'
+url: http://www.gutenberg.org/ebooks/29689
